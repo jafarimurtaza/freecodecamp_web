@@ -1,0 +1,14 @@
+==================================================
+                      Daily Homework
+                 DATE: August - 27 - 2024
+==================================================
+
+Task: Implement the header according to the FreeCodeCamp site
+
+--------------------------------------------------
+Components Involved:
+- Header Component
+- HeaderMain.jsx
+
+Files to Work On:
+- src/components/HeaderMain.js
